@@ -11,3 +11,5 @@ This repository contains various chart examples built using **Chart.js**, a flex
 - Polar Area Charts
 - Mixed Charts
 - Customization examples (colors, labels, tooltips, etc.)
+
+  [View demo](https://bohdanadev.github.io/chartjs-charts/)
